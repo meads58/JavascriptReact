@@ -1,6 +1,6 @@
 #Setup
-```npm install``
-```npm run start -s```
+* ```npm install```
+* ```npm run start -s```
 
 Stateless Components: Aim to use these as much as possible over Class component. https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.nr1ynu728
 
